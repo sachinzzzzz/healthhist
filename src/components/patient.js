@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function patient() {
   return (
-    <div>patient</div>
+    <div>
+      <h1>patient</h1>
+    </div>
   )
 }
